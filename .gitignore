@@ -229,4 +229,7 @@ tags
 .history
 .ionide
 
+# Ignore data dir
+data/
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,visualstudiocode,python,jupyternotebooks,vim
